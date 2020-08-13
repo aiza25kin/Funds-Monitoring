@@ -70,7 +70,6 @@
                     ]);
 
               var options = {
-                // title : 'Sunlife Fund Monitoring',
                 vAxis: {title: 'Funds'},
                 hAxis: {title: 'Day'},
                 seriesType: 'bars',
