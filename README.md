@@ -1,15 +1,15 @@
 # VUL-Insurance-Monitoring
 
-Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html<br>
-Go to http://localhost/dashboard and click phpMyAdmin<br>
-<p>Create a database name myinsurance</p>
-<p>Import myinsurance.sql</p>
+-Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html<br>
+-Go to http://localhost/dashboard and click phpMyAdmin<br>
+-Create a database name myinsurance<br>
+-Import myinsurance.sql<br>
 
-<p>Go to Drive:\xampp\htdocs and create new folder name MyWeb</p>
-<p>Paste LifeInsurance folder.</p>
-<p>Open Xampp and start Apache and MySQL module.</p>
-<p>Open your browser and type on your url http://localhost/MyWeb/LifeInsurance </p>
+-Go to Drive:\xampp\htdocs and create new folder name MyWeb<br>
+-Paste LifeInsurance folder.<br>
+-Open Xampp and start Apache and MySQL module.<br>
+-Open your browser and type on your url http://localhost/MyWeb/LifeInsurance <br>
 
-<p>You can use below details for demo.</p>
-<p>username: aiza25kin@gmail.com</p>
-<p>password: aiza12345</p>
+You can use below details for demo.<br>
+username: aiza25kin@gmail.com<br>
+password: aiza12345<br>
