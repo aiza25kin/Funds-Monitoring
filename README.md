@@ -1,7 +1,7 @@
 # VUL-Insurance-Monitoring
 
-<p>Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html</p>
-<p>Go to http://localhost/dashboard and click phpMyAdmin</p>
+Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html<br>
+Go to http://localhost/dashboard and click phpMyAdmin<br>
 <p>Create a database name myinsurance</p>
 <p>Import myinsurance.sql</p>
 
