@@ -7,7 +7,7 @@
 
 -Go to Drive:\xampp\htdocs and create new folder name MyWeb<br>
 -Paste LifeInsurance folder.<br>
--Open Xampp and start Apache and MySQL module.<br>
+-Open Xampp then start Apache and MySQL module.<br>
 -Open your browser and type on your url http://localhost/MyWeb/LifeInsurance <br>
 
 You can use below details for demo.<br>
