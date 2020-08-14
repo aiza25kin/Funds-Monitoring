@@ -43,9 +43,9 @@ CREATE TABLE `account` (
 --
 
 INSERT INTO `account` (`Id`, `Name`, `Middle_name`, `Last_name`, `Policy_number`, `User_name`, `Password`) VALUES
-(1, 'Azia', 'Andrea', 'Lundanum', 12345, 'aiza25kin@gmail.com', 'aiza12345'),
-(3, 'Jerlyn Ann', 'Ganotice', 'Yabut', 12346, 'jerlyn@mark.com', 'ann12345'),
-(4, 'Sarahlyn', 'Ruliog', 'Amante', 12347, 'sarah@gmail.com', 'lyn12345');
+(1, 'Azia', 'Andrea', 'Lundanum', 12345, 'aze@mark.com', 'azia12345'),
+(3, 'Jerlyn Ann', 'Gatice', 'Yaber', 12346, 'jerlyn@mark.com', 'ann12345'),
+(4, 'Analyn', 'Ruliog', 'Runente', 12347, 'ann@mark.com', 'lyn12345');
 
 -- --------------------------------------------------------
 
