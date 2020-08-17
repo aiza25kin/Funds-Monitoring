@@ -11,5 +11,5 @@
 - Open your browser and type this on your url http://localhost/MyWeb/LifeInsurance <br>
 
 You can use below details for demo.<br>
-username: aiza25kin@gmail.com<br>
-password: aiza12345<br>
+username: aze@mark.com<br>
+password: azia12345<br>
