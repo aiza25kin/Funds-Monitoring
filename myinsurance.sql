@@ -136,8 +136,7 @@ CREATE TABLE `payment_details` (
 INSERT INTO `payment_details` (`Id`, `Policy_number`, `Date_paid`, `Due_date`) VALUES
 (1, 12345, '2020-07-01', '2020-07-31'),
 (2, 12346, '2020-07-01', '2020-07-31'),
-(3, 12347, '2020-08-02', '2020-08-30'),
-(4, 121212, '0000-00-00', '0000-00-00');
+(3, 12347, '2020-08-02', '2020-08-30');
 
 --
 -- Indexes for dumped tables
