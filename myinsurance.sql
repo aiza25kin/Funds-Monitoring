@@ -44,8 +44,8 @@ CREATE TABLE `account` (
 
 INSERT INTO `account` (`Id`, `Name`, `Middle_name`, `Last_name`, `Policy_number`, `User_name`, `Password`) VALUES
 (1, 'Azia', 'Andrea', 'Lundanum', 12345, 'aiza25kin@gmail.com', 'aiza12345'),
-(3, 'Jerlyn Ann', 'Ganotice', 'Yabut', 12346, 'jerlyn@mark.com', 'ann12345'),
-(4, 'Sarahlyn', 'Ruliog', 'Amante', 12347, 'sarah@gmail.com', 'lyn12345');
+(2, 'Jerlyn Ann', 'Ganotice', 'Yabut', 12346, 'jerlyn@mark.com', 'ann12345'),
+(3, 'Sarahlyn', 'Ruliog', 'Amante', 12347, 'sarah@gmail.com', 'lyn12345');
 
 -- --------------------------------------------------------
 
@@ -68,8 +68,8 @@ CREATE TABLE `fund_details` (
 INSERT INTO `fund_details` (`Fund_Id`, `Type`, `Policy_number`, `Units`, `Allocation`) VALUES
 (1, 'Index', '12345', 5087.9, 70),
 (2, 'Equity', '12345', 547.2, 30),
-(8, 'Index', '12346', 245, 100),
-(25, 'Equity', '12347', 789, 100);
+(3, 'Index', '12346', 245, 100),
+(4, 'Equity', '12347', 789, 100);
 
 -- --------------------------------------------------------
 
@@ -132,9 +132,9 @@ CREATE TABLE `payment_details` (
 
 INSERT INTO `payment_details` (`Id`, `Policy_number`, `Date_paid`, `Due_date`) VALUES
 (1, 12345, '2020-07-01', '2020-07-31'),
-(3, 12346, '2020-07-01', '2020-07-31'),
-(4, 12347, '2020-08-02', '2020-08-30'),
-(56, 121212, '0000-00-00', '0000-00-00');
+(2, 12346, '2020-07-01', '2020-07-31'),
+(3, 12347, '2020-08-02', '2020-08-30'),
+(4, 121212, '0000-00-00', '0000-00-00');
 
 --
 -- Indexes for dumped tables
