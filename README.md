@@ -12,4 +12,4 @@
 
 You can use below details for demo.<br>
 username: aze@mark.com<br>
-password: azia12345<br>
+password: aze12345<br>
