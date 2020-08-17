@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 13, 2020 at 07:11 AM
+-- Generation Time: Aug 17, 2020 at 10:39 AM
 -- Server version: 10.4.8-MariaDB
 -- PHP Version: 7.3.11
 
@@ -35,7 +35,7 @@ CREATE TABLE `account` (
   `Last_name` varchar(255) NOT NULL,
   `Policy_number` int(11) NOT NULL,
   `User_name` varchar(255) NOT NULL,
-  `Password` varchar(255) NOT NULL
+  `Password` blob NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
@@ -43,12 +43,9 @@ CREATE TABLE `account` (
 --
 
 INSERT INTO `account` (`Id`, `Name`, `Middle_name`, `Last_name`, `Policy_number`, `User_name`, `Password`) VALUES
-<<<<<<< HEAD
-(1, 'Azia', 'Andrea', 'Lundanum', 12345, 'aiza25kin@gmail.com', 'aiza12345'),
-(2, 'Jerlyn Ann', 'Ganotice', 'Yabut', 12346, 'jerlyn@mark.com', 'ann12345'),
-(3, 'Sarahlyn', 'Ruliog', 'Amante', 12347, 'sarah@gmail.com', 'lyn12345');
-=======
-
+(1, 'Azia', 'Andrea', 'Lundanum', 12345, 'aze@mark.com', 0x617a653132333435),
+(3, 'Jerlyn', 'Gandice', 'Yannie', 12346, 'jerlyn@mark.com', 0x616e6e3132333435),
+(4, 'Sarahlyn', 'Yuling', 'Rante', 12347, 'sarah@mark.com', 0x6c796e3132333435);
 
 -- --------------------------------------------------------
 
@@ -71,8 +68,8 @@ CREATE TABLE `fund_details` (
 INSERT INTO `fund_details` (`Fund_Id`, `Type`, `Policy_number`, `Units`, `Allocation`) VALUES
 (1, 'Index', '12345', 5087.9, 70),
 (2, 'Equity', '12345', 547.2, 30),
-(3, 'Index', '12346', 245, 100),
-(4, 'Equity', '12347', 789, 100);
+(4, 'Equity', '12347', 789, 100),
+(8, 'Index', '12346', 245, 100);
 
 -- --------------------------------------------------------
 
@@ -135,8 +132,8 @@ CREATE TABLE `payment_details` (
 
 INSERT INTO `payment_details` (`Id`, `Policy_number`, `Date_paid`, `Due_date`) VALUES
 (1, 12345, '2020-07-01', '2020-07-31'),
-(2, 12346, '2020-07-01', '2020-07-31'),
-(3, 12347, '2020-08-02', '2020-08-30');
+(3, 12346, '2020-07-01', '2020-07-31'),
+(4, 12347, '2020-08-02', '2020-08-30');
 
 --
 -- Indexes for dumped tables
