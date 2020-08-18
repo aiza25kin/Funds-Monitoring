@@ -6,9 +6,9 @@
 - Import myfund.sql<br>
 
 - Go to Drive:\xampp\htdocs and create new folder name MyWeb<br>
-- Paste LifeInsurance folder.<br>
+- Paste FundsMonitoring folder.<br>
 - Open XAMPP then start Apache and MySQL module.<br>
-- Open your browser and type this on your url http://localhost/MyWeb/LifeInsurance <br>
+- Open your browser and type this on your url http://localhost/MyWeb/FundMonitoring <br>
 
 You can use below details for demo.<br>
 username: aze@mark.com<br>
