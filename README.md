@@ -5,7 +5,7 @@
 - Create a database name myfund<br>
 - Import myfund.sql<br>
 
-- Go to Drive:\xampp\htdocs and create new folder name MyWeb<br>
+- Go to C:\xampp\htdocs and create new folder name MyWeb<br>
 - Paste FundsMonitoring folder.<br>
 - Open XAMPP then start Apache and MySQL module.<br>
 - Open your browser and type this on your url http://localhost/MyWeb/FundsMonitoring <br>
