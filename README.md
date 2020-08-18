@@ -1,4 +1,4 @@
-# VUL-Insurance-Monitoring
+# Funds-Monitoring
 
 - Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html<br>
 - Go to http://localhost/dashboard and click phpMyAdmin<br>
