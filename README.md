@@ -1,14 +1,14 @@
-# VUL-Insurance-Monitoring
+# Funds-Monitoring
 
 - Install XAMPP web server. You can download it on this page https://www.apachefriends.org/download.html<br>
 - Go to http://localhost/dashboard and click phpMyAdmin<br>
-- Create a database name myinsurance<br>
-- Import myinsurance.sql<br>
+- Create a database name myfund<br>
+- Import myfund.sql<br>
 
 - Go to Drive:\xampp\htdocs and create new folder name MyWeb<br>
-- Paste LifeInsurance folder.<br>
+- Paste FundsMonitoring folder.<br>
 - Open XAMPP then start Apache and MySQL module.<br>
-- Open your browser and type this on your url http://localhost/MyWeb/LifeInsurance <br>
+- Open your browser and type this on your url http://localhost/MyWeb/FundsMonitoring <br>
 
 You can use below details for demo.<br>
 username: aze@mark.com<br>
